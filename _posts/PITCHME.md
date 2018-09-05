@@ -11,7 +11,7 @@ post_date: 2018-09-05 21:53:31
 ---
 # Setting up your EduGuide Team
 
-Notes:
+Note:
 
 Hi My name is Jon Morgan, Web Services Manager for EduGuide.
 
