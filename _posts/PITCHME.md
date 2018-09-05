@@ -21,7 +21,7 @@ In this video, we are going to be talking about the steps that Admin Coaches sho
 
 ---
 
-<img title="" src="http://eginsider.gazerbeam.com/wp-content/uploads/2018/09/null.png" alt="" width="624" height="333" />
+<img title="" src="http://eginsider.gazerbeam.com/wp-content/uploads/2018/09/null.png"  />
 
 Note:
 
