@@ -14,11 +14,15 @@ Note:
 
 Hi, this is Nicole Chickering, Results Coach for EduGuide. In this episode of EduGuide Insider, I'm going to be talking about the different roles that are on the site and the process that coaches and students should follow when they join the team.
 
+--
+
 ## Site Roles
 
 Note:
 
 So, the process for joining the site changes depending on the role that you are joining under. I'm going to walk you through the steps for each role, starting with students.
+
+--
 
 ## Adding Students
 
