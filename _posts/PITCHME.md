@@ -8,6 +8,8 @@ permalink: http://eginsider.gazerbeam.com/gitpitch
 published: true
 post_date: 2018-09-06 00:04:14
 ---
+---?image=assets/img/bg.jpg
+
 # Setting up your EduGuide Team
 
 Note:
