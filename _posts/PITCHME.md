@@ -1,12 +1,4 @@
----
-ID: 52
-post_title: PITCHME
-author: Jon Morgan
-post_excerpt: ""
-layout: post
-permalink: http://eginsider.gazerbeam.com/52-2
-published: true
-post_date: 2018-09-06 16:24:00
+
 ---
 # EduGuide Insider
 
@@ -17,7 +9,7 @@ Note:
 
 Hi, this is Nicole Chickering, Results Coach for EduGuide. In this episode of EduGuide Insider, I'm going to be talking about the different roles that are on the site and the process that coaches and students should follow when they join the team.
 
---
+---
 
 ## Site Roles
 
