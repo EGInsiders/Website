@@ -17,7 +17,7 @@ Note:
 
 So, the process for joining the site changes depending on the role that you are joining under. I'm going to walk you through the steps for each role, starting with students.
 
---
+---
 
 ## Adding Students
 
@@ -25,7 +25,10 @@ Note:
 
 The student role is the only one that does not join from an emailed invitation. Instead, students should be provided with a group join code. The join code can be found inside the group management area of your team.
 
+---
+
 ![image alt text]({{ site.url }}/public/D38ETQmHfuFVPbf9u7wAEA_img_0.png)
+
 
 Note:
 
