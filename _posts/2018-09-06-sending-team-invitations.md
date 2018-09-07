@@ -107,4 +107,22 @@ post_date: 2018-09-06 17:31:25
 <p></p>
 <p>Admin coaches are encouraged to use the IT Testing section in the team setup page to send an IT testing request to a member of their technology team. During testing, the technician will be walked through some configuration checks and then taken through a test version of the path. This allows us to catch any critical issues before students begin using the path system, ensuring a smooth user experience.</p>
 <p></p>
+<p>---</p>
 <p></p>
+<p>## Member Feedback</p>
+<p></p>
+<ul>
+<li>Widget</li>
+<li>Live Chat</li>
+<li>Email: <a href="mailto:web@eduguide.org">web@eduguide.org</li>
+</ul>
+<p></p>
+<p>Note:</p>
+<p></p>
+<p>That was a quick look at the process for joining the team. If you have any questions about how coaches or students join the team, or on any other subject, feel free to contact EduGuide at <a href="mailto:web@eduguide.org">web@eduguide.org</a>. You can also start a ticket by filling out the feedback form in our support widget on the site. Just click “Help & Feedback,” and then enter in your question or issue. You can also request a live chat session during business hours by clicking on “Chat with us” inside the main menu.</p>
+<p></p>
+<p>We will be making more videos like this, so your question could be answered in a future episode.</p>
+<p></p>
+<p>---</p>
+<p></p>
+<p>https://gitpitch.com/EGInsiders/Website/master?p=_posts?n=true</p>
