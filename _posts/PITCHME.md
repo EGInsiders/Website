@@ -8,20 +8,20 @@ Hi, this is Nicole Chickering, Results Coach for EduGuide. In this episode of Ed
 
 ---
 
-PAGE_BREAK: PageBreak
 
 ## Member Roles
-<ul>
- 	<li>Students</li>
- 	<li>Coaches</li>
- 	<li>Members</li>
- 	<li>IT Testers</li>
-</ul>
+
+* Students
+* Coaches
+* Members
+* IT Testers
+
+
 Note:
 
 On the EduGuide website, there are four member roles: students, coaches, members, and IT Testers. Student and coach roles are typically used on school based teams, with teacher joining as coaches. IT Testers are typically the member of a technology staff for a school who completes IT testing before students are added to the team. And, a team member is anybody who has access to the team but does not serve the role of moderator. This role is typically used on professional development or non-school teams.
 
-<hr />
+---
 
 ## Inviting Members to the Team
 
@@ -29,7 +29,7 @@ Note:
 
 So, the process for joining the site changes depending on the role that you are joining under. I’m going to walk you through the steps for each role, starting with students.
 
-<hr />
+---
 
 ## Inviting Students
 
