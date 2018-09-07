@@ -39,9 +39,8 @@ The student role is the only one that does not join from an emailed invitation. 
 
 ---
 
-PAGE_BREAK: PageBreak
 
-<img title="" src="http://eginsider.gazerbeam.com/wp-content/uploads/2018/09/null-8.png" alt="" width="816" height="154" />
+<img title="" src="http://eginsider.gazerbeam.com/wp-content/uploads/2018/09/null-8.png" alt=""  />
 
 Note:
 
