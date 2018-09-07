@@ -21,6 +21,7 @@ Note:
 
 On the EduGuide website, there are four member roles: students, coaches, members, and IT Testers. Student and coach roles are typically used on school based teams, with teacher joining as coaches. IT Testers are typically the member of a technology staff for a school who completes IT testing before students are added to the team. And, a team member is anybody who has access to the team but does not serve the role of moderator. This role is typically used on professional development or non-school teams.
 
+
 ---
 
 ## Inviting Members to the Team
@@ -39,7 +40,7 @@ The student role is the only one that does not join from an emailed invitation. 
 
 ---
 
-<img title="" src="http://eginsider.gazerbeam.com/wp-content/uploads/2018/09/null-8.png" alt="" width="816" height="154" />
+<img title="" src="http://eginsider.gazerbeam.com/wp-content/uploads/2018/09/null-8.png" alt="" />
 
 Note:
 
