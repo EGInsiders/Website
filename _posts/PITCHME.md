@@ -8,7 +8,6 @@ Hi, this is Nicole Chickering, Results Coach for EduGuide. In this episode of Ed
 
 ---
 
-PAGE_BREAK: PageBreak
 
 ## Member Roles
 <ul>
@@ -29,7 +28,7 @@ Note:
 
 So, the process for joining the site changes depending on the role that you are joining under. I’m going to walk you through the steps for each role, starting with students.
 
----PAGE_BREAK: PageBreak
+---
 
 ## Inviting Students
 
